@@ -1,0 +1,43 @@
+start_test_server_in_background
+start_test_server_in_background
+exit
+start_test_server_in_background
+start_test_server_in_background
+exit
+start_test_server_in_background
+exit
+start_test_server_in_background
+exit
+start_test_server_in_background
+exit
+start_test_server_in_background
+query("*")
+touch("* marked:'【蘑菇】阿柴@12-9_15:14:10 阿柴'")
+touch("* marked:'【蘑菇】阿柴'")
+query("*")
+query("*")
+exit
+start_test_server_in_background
+query("*")
+touch(query(“*”)[29])
+touch("* id:’picture’”)
+query("*")
+exit
+exit
+start_test_server_in_background
+query("*")
+query("*")
+exit
+start_test_server_in_background
+exit
+start_test_server_in_background
+query("*")
+touch("* id:'imageLogout'")
+touch("* id:'imageLogout'")
+perform_action('drag', 50, 50, 80, 60, 10)
+exit
+perform_action('drag', 50, 50, 80, 60, 10)
+start_test_server_in_background
+perform_action('drag', 50, 50, 80, 60, 10)
+perform_action('drag', 50, 50, 80, 75, 10)
+exit
